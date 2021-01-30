@@ -4,7 +4,7 @@
 
 Submitted by: **Roy Alda**
 
-Time spent: **3** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## User Stories
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![name](url)
+![TipTronic](http://g.recordit.co/aFbmBEndIf.gif)
 
 
 ## Notes
