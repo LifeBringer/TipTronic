@@ -28,7 +28,7 @@ class TipCalculatorViewController:
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        amountBeforeTaxTextField.becomeFirstResponder()
+        self.amountBeforeTaxTextField.becomeFirstResponder()
     }
     
     func calculateBill(){
