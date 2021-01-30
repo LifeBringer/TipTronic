@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
-Had a couple of errors when dealing with resizing the UI. Eventually resolved it. Pretty straight forward to do and had a lot of fund doing. Hoping to update this at some point.
+Had a couple of errors when dealing with resizing the UI. Eventually resolved it. Would like to prevent Elon level of inputtable bill amount by limiting maximum. Pretty straight forward to do and had a lot of fun doing it. Hoping to update this at some point.
 
 
 ## License
