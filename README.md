@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![TipTronic](http://g.recordit.co/eT2eqbIxuL.gif)
+![TipTronic](https://github.com/LifeBringer/TipTronic/blob/main/Walkthrough.gif)
 
 
 ## Notes
